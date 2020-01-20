@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <title>International Summer School on Software Engineering @ Free University
+      of Bozen-Bolzano | 13-15 September 2016</title>
+    <link rel="stylesheet" type="text/css" media="screen,print" href="../stylesheets/generic.css" />
+    <link rel="stylesheet" type="text/css" media="screen,print" href="../stylesheets/buttons.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="header"> <img src="../images/header.png" style="margin:0; padding:0; width:778px; height:202px;" />
+      </div>
+      <div id="content">
+        <div id="menu"> <br />
+          <a href="../index.html" class="menu">Home</a> <a href="program.html"
+            class="menu">Program</a>
+          <a href="#" class="menu">Registration</a> <a href="accommodations.html"
+            class="menu">Venue
+            and Accommodations</a> <a href="travel.html" class="menu">Travel</a>
+          <a href="excursion.html" class="menu">Excursion</a> </div>
+        <br />
+        <br />
+        <table id="invisible" style="width:760px; text-align:center">
+          <tbody>
+            <tr>
+              <td width="540" id="invisible" style="text-align:center">
+                <h5><b>Registration [Deadline: August 13th 2017]</b></h5>
+                <p>The registration fee to the summer school is 60€ and includes
+                  attendance to the five tutorials, lunches during the three
+                  days of the summer school, a social dinner scheduled on
+                  September 5 2017, and coffee breaks.</p>
+                <p><b>The registration system is available <a target="_blank" href="https://ebms.public.scientificnet.org/emc00/register.aspx?OrgCode=20&amp;EvtID=9075&amp;AppCode=REG&amp;CC=116032303651">here</a>.</b></p>
+                <p><b>IMPORTANT</b><br />
+                  During the registration (composed by 4 different steps) you
+                  will be asked to chose between:<br />
+                  <br />
+                  STEP 2<br />
+                  - Participant: Registration Tickets - 60€ OR<br />
+                  - Participant electronic invoice: Registration Tickets - 60€<br />
+                  <br />
+                  Please select electronic invoice only if you are an Italian
+                  citizen working for a PUBLIC INSTITUTION, which will DIRECTLY
+                  pay your fee. If you are paying with your credit card this is
+                  not needed.<br />
+                  <br />
+                  STEP 4<br />
+                  - I will pay later<br />
+                  - I will pay with my credit card<br />
+                  <br />
+                  If you select "I will pay later" the system will show you the
+                  information needed to pay via bank transfer. Then, you have 5
+                  days to finalize the bank transfer.</p>
+                <p></p>
+                <br />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+      </div>
+    </div>
+    <p style="text-align:center; font-size:9px">SEschool@unibz</p>
+    <p style="text-align:center; font-size:9px">Updated By Aiman, Claudio,
+      Martin</p>
+  </body>
+</html>

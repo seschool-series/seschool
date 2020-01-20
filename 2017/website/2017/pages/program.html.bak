@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <title>International Summer School on Software Engineering @ Free University
+      of Bozen-Bolzano | 13-15 September 2016</title>
+    <link rel="stylesheet" type="text/css" media="screen,print" href="../stylesheets/generic.css" />
+    <link rel="stylesheet" type="text/css" media="screen,print" href="../stylesheets/buttons.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="header"> <img src="../images/header.png" style="margin:0; padding:0; width:778px; height:202px;" />
+      </div>
+      <div id="content">
+        <div id="menu"> <br />
+          <a href="../index.html" class="menu">Home</a> <a href="#" class="menu">Program</a>
+          <a href="registration.html" class="menu">Registration</a> <a href="accommodations.html"
+            class="menu">Venue
+            and Accommodations</a> <a href="travel.html" class="menu">Travel</a>
+          <a href="excursion.html" class="menu">Excursion</a> </div>
+        <br />
+        <br />
+        <table id="invisible" style="width:760px; text-align:center">
+          <tbody>
+            <tr>
+              <td width="540" id="invisible" style="text-align:center">
+                <h3>Program</h3>
+                <p>Click on the title of the tutorial to get more information!</p>
+                <center> <strong>
+                    <p style="font-size:11pt; text-align:center"><b>Monday,
+                        September 4th, 2017<br />
+                      </b></p>
+                  </strong>
+                  <table width="650px" align="center">
+                    <tbody>
+                      <tr>
+                        <td style="width: 140px;"><strong>Room D002<br />
+                          </strong></td>
+                        <td style="width: 510px;"> <br />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>08:00-08:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Registration</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>08:30-09:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Welcome to the fourth
+                              edition of the SESchool</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>09:00-10:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><a href="../tutor/Premkumar%20T.%20Devanbu.html"><strong>Tutorial
+                                1: Prem Devanbu</strong></a><br />
+                            Computer Science Department, University of
+                            California at Davis, CA, US<br />
+                            <a href="../tutor/Premkumar%20T.%20Devanbu.html"><i>The
+                                Naturalness of Software, and How to Exploit it</i></a>
+                            [Part I] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>10:30-11:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Coffee Break</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>11:00-12:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Tutorial 1: Prem
+                              Devanbu</strong><br />
+                            Computer Science Department, University of
+                            California at Davis, CA, US<br />
+                            <a href="../tutor/Premkumar%20T.%20Devanbu.html"><i>The
+                                Naturalness of Software, and How to Exploit it</i></a>
+                            [Part II] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>12:30-13:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Lunch @unibz Mensa</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>13:30-15:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><a href="../tutor/Hakan%20Erdogmus.html"><strong>Tutorial
+                                2: Hakan Erdogmus</strong></a><br />
+                            Department of Electrical and Computer Engineering,
+                            Carnegie Mellon University, PA, US<br />
+                            <a href="../tutor/Hakan%20Erdogmus.html"><i>Unit
+                                Testing and Test-Driven Development with Java
+                                and Junit</i></a> [Part I] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>15:00-15:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Coffee Break</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>15:30-17:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Tutorial 2: Hakan
+                              Erdogmus</strong><br />
+                            Department of Electrical and Computer Engineering,
+                            Carnegie Mellon University, PA, US<br />
+                            <a href="../tutor/Hakan%20Erdogmus.html"><i>Unit
+                                Testing and Test-Driven Development with Java
+                                and Junit</i></a> [Part II] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>17:00-18:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>One-to-one Q&amp;A
+                              with speakers</strong></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br />
+                  <br />
+                  <strong>
+                    <p style="font-size:11pt; text-align:center"><b>Tuesday,
+                        September 5th, 2017<br />
+                      </b></p>
+                  </strong>
+                  <table width="650px" align="center">
+                    <tbody>
+                      <tr>
+                        <td style="width: 140px;"><strong>Room D002<br />
+                          </strong></td>
+                        <td style="width: 510px;"> <br />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>08:30-10:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Tutorial 2: Hakan
+                              Erdogmus</strong><br />
+                            Department of Electrical and Computer Engineering,
+                            Carnegie Mellon University, PA, US<br />
+                            <a href="../tutor/Hakan%20Erdogmus.html"><i>Unit
+                                Testing and Test-Driven Development with Java
+                                and Junit</i></a> [Part III] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>10:00-10:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Coffee Break</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>10:30-12:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Tutorial 2: Hakan
+                              Erdogmus</strong><br />
+                            Department of Electrical and Computer Engineering,
+                            Carnegie Mellon University, PA, US<br />
+                            <a href="../tutor/Hakan%20Erdogmus.html"><i>Unit
+                                Testing and Test-Driven Development with Java
+                                and Junit</i></a> [Part IV] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>12:30-13:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Lunch @unibz Mensa</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>13:30-15:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><a href="../tutor/AyseTosun.html"><strong>Tutorial
+                                3: Ayse Tosun</strong></a><br />
+                            Faculty of Computer and Informatics, Istanbul
+                            Technical University (ITU), Istanbul, Turkey<br />
+                            <a href="../tutor/Ayse%20Basar%20Bener.html"><i>Data
+                                Science and Analytics</i></a> [Part I] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>15:00-15:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Coffee Break</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>15:30-17:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Tutorial 3: Ayse
+                              Tosun</strong><br />
+                            Faculty of Computer and Informatics,
+                            Istanbul Technical University (ITU), Istanbul,
+                            Turkey<br />
+                            <a href="../tutor/AyseTosun.html"><i>Data Science
+                                and Analytics</i></a> [Part II] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>17:00-18:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>One-to-one Q&amp;A
+                              with speakers</strong></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>19:00<br />
+                          </strong></td>
+                        <td>
+                          <p style="font-size: 10pt"><strong>Social dinner
+                              @Forst</strong></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br />
+                  <br />
+                  <strong>
+                    <p style="font-size:11pt; text-align:center"><b>Wednesday,
+                        September 6th, 2017<br />
+                      </b></p>
+                  </strong>
+                  <table width="650px" align="center">
+                    <tbody>
+                      <tr>
+                        <td style="width: 140px;"><strong>Room D002</strong></td>
+                        <td style="width: 510px;"> <br />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>9:00-11:45</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>EMSE Students Workshop<br />
+                            </b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>11:45-12:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Lunch @unibz Mensa</b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>12:30-17:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Excursion: Three <a href="excursion.html">Castels
+                                Walk</a><br />
+                            </b></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br />
+                  <br />
+                  <p style="font-size:11pt; text-align:center"><b>Thursday,
+                      September 7th 2017<br />
+                    </b></p>
+                  <table width="650px" align="center">
+                    <tbody>
+                      <tr>
+                        <td style="width: 140px;"><strong>Room D002</strong></td>
+                        <td style="width: 510px;"> <br />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>8:30-10:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><a href="../tutor/Alberto%20Avritzer.html"><strong>Tutorial
+                                4: Alberto Avritzer</strong></a><br />
+                            Sonatype, Inc., MA, US<br />
+                            <a href="../tutor/Alberto%20Avritzer.html"><i>Performance
+                                assessment of high-availability systems using
+                                Markov chains</i></a> [Part I] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>10:00-10:30</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><b>Coffee Break<br />
+                            </b></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>10:30-12:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Tutorial 4: Alberto
+                              Avritzer</strong><br />
+                            Sonatype, Inc., MA, US<br />
+                            <a href="../tutor/Alberto%20Avritzer.html"><i>Performance
+                                assessment of high-availability systems using
+                                Markov chains</i></a> [Part II] <br />
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>12:00-13:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>One-to-one Q&amp;A
+                              with speakers</strong></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>13:00-14:00</strong></td>
+                        <td>
+                          <p style="font-size:10pt"><strong>Lunch @unibz Mensa
+                              &amp; Farewell</strong></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </center>
+                <br />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <p style="text-align:center; font-size:9px">SEschool@unibz</p>
+  </body>
+</html>

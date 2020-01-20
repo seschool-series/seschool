@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <title>International Summer School on Software Engineering @ Free University
+      of Bozen-Bolzano | 13-15 September 2016</title>
+    <link href="../stylesheets/generic.css" media="screen,print" type="text/css"
+      rel="stylesheet" />
+    <link href="../stylesheets/buttons.css" media="screen,print" type="text/css"
+      rel="stylesheet" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="header"><img style="margin:0; padding:0; width:778px; height:202px;"
+          src="../images/header.png" /></div>
+      <div id="content">
+        <div id="menu"> <br />
+          <a class="menu" href="../index.html">Home</a> <a class="menu" href="program.html">Program</a>
+          <a class="menu" href="registration.html">Registration</a> <a class="menu"
+            href="accommodations.html">Venue
+            and Accommodations</a> <a class="menu" href="#">Travel</a> <a class="menu"
+            href="excursion.html">Excursion</a>
+        </div>
+        <br />
+        <br />
+        <table style="width:760px; text-align:center" id="invisible">
+          <tbody>
+            <tr>
+              <td width="540" style="text-align:center" id="invisible">
+                <h5>Where is Bolzano?</h5>
+                <iframe width="600" height="450" frameborder="0" allowfullscreen=""
+                  style="border:0"
+                  src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d2825775.3385280375%212d11.651738709845928%213d45.07930056219524%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x47829c2b419e7049%3A0x652b694f348b432a%212s39100+Bolzano%2C+Province+of+Bolzano+-+South+Tyrol%215e1%213m2%211sen%212sit%214v1489150640637"></iframe><br />
+              </td>
+            </tr>
+            <tr>
+              <td width="540" style="text-align:center" id="invisible">
+                <h5>Travel</h5>
+                <br />
+                <p><b>By train</b><br />
+                  One of the best ways to get to Bolzano is by train. The train
+                  station is well connected to the countries of Austria and
+                  Germany, as well as to the rest of Italy through Verona,
+                  Milan, and Venice.</p>
+                <p>The most common connection to Bolzano from outside of Italy
+                  is through Munich, served frequently each day with a direct
+                  connection. Please see the <a target="_blank" href="http://www.bahn.de/i/view/GBR/en/index.shtml"
+                    title="Deutsche Bahn"
+                    class="external-link-new-window">Deutsche
+                    Bahn</a> website.</p>
+                <br />
+                <p><b>By car</b><br />
+                  Similarly to the trains, Bolzano is well connected to Austria
+                  and the rest of Italy via the Italian A22 Freeway.</p>
+                <p>If coming from the South, we suggest to take the motorway
+                  exit “Bolzano Sud” and to park your car at the Fair (1300
+                  lots). From there you find public busses to the centre every
+                  15 minutes or the train every 30 minutes.</p>
+                <p>If coming from the North, We suggest to take the motorway
+                  exit “Bolzano Nord” and to park at the parking “Bolzano
+                  Centro”, which is only a few minutes walking from the centre.</p>
+                <p>Please be aware that parking in Bolzano, with the exception
+                  of those at the Freeway exits, can be very expensive. It is
+                  forbidden for non-residents to park in the city’s urban
+                  parking slots (“white lines” parking spaces).</p>
+                <p><strong>ATTENTION!</strong> Access to the city center is
+                  forbidden by car and, since May 2014, it is under <strong>video
+                    surveillance</strong>. Please follow the indication to the
+                  parking places and do not overstep <strong><a target="_blank"
+                      href="https://maps.google.it/maps/ms?msid=212016572693380048339.0004e8c38c2889176f07f&amp;msa=0&amp;ll=46.499064,11.35363&amp;spn=0.005975,0.009645&amp;dg=feature">the
+                      gates</a></strong> in order to avoid a sanction.</p>
+                <p>You can park for free <a href="https://goo.gl/maps/bucsVrHv1s92">here</a>;
+                  or you can follow the electronic indications at the main
+                  entrances of the city.</p>
+                <p>The list of the public parking lots is available <a target="_blank"
+                    href="http://www.bolzano-bozen.it/images/pdf/Parking_in_Bolzano_2014.pdf">here</a>.</p>
+                <p><b>By air</b><br />
+                  The nearest international airports are in Innsbruck (Austria)
+                  and Verona (Italy). Those airports, including those in Milan,
+                  Venice, and Munich are conveniently connected to Bolzano by
+                  train.</p>
+                <br />
+                <p><b>Useful numbers</b><br />
+                  Traffic Information Office, tel. +39 0471 200198 <a href="http://www.provinz.bz.it/traffico"
+                    title="Traffic Information Office">www.provinz.bz.it/traffico</a><br />
+                  Autostrada del Brennero A22, – <a href="http://www.autobrennero.it/"
+                    title="Autostrade del Brennero A22">www.autobrennero.it</a><br />
+                  Local Police: tel. +39 0471 997788<br />
+                  Radio Taxi: tel. +39 0471 981111<br />
+                  Tourist Information Office: tel. +39 0471 307000</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+      </div>
+    </div>
+    <p style="text-align:center; font-size:9px">SEschool@unibz</p>
+    <p style="text-align:center; font-size:9px">Updated By Aiman, Claudio,
+      Martin</p>
+  </body>
+</html>

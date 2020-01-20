@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="UTF-8" />
+    <title>International Summer School on Software Engineering @ Free University
+      of Bozen-Bolzano | 4 - 7 September 2017</title>
+    <link href="../stylesheets/generic.css" media="screen,print" type="text/css"
+      rel="stylesheet" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="header"> <img style="margin:0; padding:0; width:778px; height:202px;"
+          src="../images/header.png" />
+      </div>
+      <div id="content"> <br />
+        <div id="menu"> <a class="menu" href="#">Home</a> <a class="menu" href="../pages/program.html">Program</a>
+          <a class="menu" href="../pages/registration.html">Registration</a> <a
+            class="menu"
+            href="../pages/accommodations.html">Venue
+            and Accommodations</a> <a class="menu" href="../pages/travel.html">Travel</a>
+          <a class="menu" href="../pages/excursion.html">Excursion</a> </div>
+        <br />
+        <!--<a class="social" style="text-align:right" href="http://www.facebook.com/wcre2012"><img src="images/facebook.jpg" /></a> <a class="social" style="text-align:right" href="http://twitter.com/WCRE2012"><img src="images/twitter.jpg" /></a> -->
+        <br />
+        <table style="width:760px; text-align:center; border-color:white" id="invisible">
+          <tbody>
+            <tr>
+              <td style="text-align:center; width: 60%; padding-top: 15px;" id="invisible">
+                <h5>Ayșe Bașar Bener</h5>
+              </td>
+            </tr>
+            <tr>
+              <td style="border-color:white"><img src="../tutor_images/Ayse.jpg"
+                  style="width: 200px; height: 250px;" /><br />
+              </td>
+
+
+              </tr>
+              <tr>
+               <td style="border-color:white; text-align:left">
+                <b>Abstract</b>
+                <br />
+                The tutorial will share our experience and views on software data analytics in practice with a retrospect to our previous work as well as examples from the current work. Data science involves putting together an interdisciplinary team of experts and one of the critical success factors is that it should follow a due process in conducting analytics and using machine learning techniques. A blueprint of data science projects in practice will be discussed as the methodology used in Data Science Lab (DSL) to explain the process. Over 15 years of joint research projects with the industry, we have encountered similar data analytics patterns in diverse organizations and in different problem cases. In the tutorial, we will discuss these patterns following a `software analytics' framework: problem identification, data collection, descriptive statistics and decision making. 
+               </td>
+              </tr>
+              <tr>
+                <td style="border-color:white; text-align:left">
+                  <b>Speaker's Bio</b>
+                  <br />
+                  Dr. Ayse Basar Bener is a professor and the director of Data Science Laboratory (DSL) in the Department of Mechanical and Industrial Engineering, Ryerson University. She is the director of Big Data in the Office of Provost and Vice President Academic at Ryerson University. She is also the Program Director of both Certificate Program in Data Analytics, Big Data, and Predictive Analytics, and the Master of Science Program in Data Science and Analytics at Ryerson University. She is a faculty research fellow of IBM Toronto Labs Centre for Advance Studies, and affiliate research scientist in St. Michael’s Hospital in Toronto. Her current research focus is big data applications to tackle the problem of decision-making under uncertainty by using machine learning methods and graph theory to analyze complex structures in big data to build recommender systems and predictive models. She is a member of AAAI, INFORMS, AIS, and senior member of IEEE.
+                </td>
+                
+
+
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <br />
+        <center>
+          <table style="width:730px; text-align:center" id="invisible">
+          </table>
+        </center>
+      </div>
+    </div>
+    <p style="text-align:center; font-size:9px">SEschool@unibz</p>
+    <p style="text-align:center; font-size:9px">Updated By Aiman, Claudio,
+      Martin</p>
+  </body>
+</html>

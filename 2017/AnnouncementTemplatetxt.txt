@@ -1,0 +1,67 @@
+
+——————————————————————————————————————————————-
+THIRD SUMMER SCHOOL ON  SOFTWARE ENGINEERING (SESchool2017)
+
+Free University of Bozen-Bolzano, Italy 
+
+September 4-7, 2017 
+
+http://seschool2017.inf.unibz.it
+———————————————————————————————————————————————
+
+SCOPE
+
+The school is intended for graduates and PhD students that want to be exposed to the new research directions in Software Engineering. This-year tutorials will stress the new engineering challenges in software and systems development and maintenance from effective unit testing to data engineering and analysis.  
+
+The school also organises half-day excursion to the beautiful surroundings of Bolzano in the Dolomites and a social dinner in one of the characteristic restaurants of the town. 
+
+VENUE
+
+SESchool 2017 is at its third edition and will be hosted at the Free University of Bozen-Bolzano, in Bolzano, the capital of the autonomous province South Tyrol, in northern Italy. Since 2010, the town has been ranked  among the top 5 Italian cities for quality-of-life. The town offers several points of interest such as the Museum of Archaeology, where the mummy of the iceman Ötzi  is preserved, and has a beautiful shopping area under medieval arcades in the city centre. There are several promenades starting from the town and leading to the surrounding hills or following the three rivers for kilometres. The whole valley hosting Bolzano can be admired while going up the hill with any of the three cable cars starting from the town.  
+
+For further details please visit http://seschool2017.inf.unibz.it/pages/accommodations.html
+
+PARTICIPATION
+
+Registration fee is 80 EUR and includes:
+
+* Attendance to all tutorials 
+* Lunches
+* Coffee breaks
+* Social dinner 
+
+Further details on registration are available at http://seschool2017.inf.unibz.it/pages/registration.html 
+
+PROGRAM
+
+The program of the Summer School is available on-line at http://seschool2017.inf.unibz.it/pages/program.html
+
+This year we are glad to announce the following tutorials:
+
+Prem Devanbu
+Computer Science Department, University of California at Davis, CA, US
+“The Naturalness of Software, and How to Exploit it”
+
+Hakan Erdogmus
+Department of Electrical and Computer Engineering, Carnegie Mellon University, PA, US
+“Unit Testing and Test-Driven Development with Java and Junit”
+
+Ayse Bener
+Department of Mechanical and Industrial Engineering, Ryerson University, ON, CA
+“Data Science and Analytics”
+
+Alberto Avritzer
+Sonatype, Inc., MA, US
+“Performance assessment of high-availability systems using Markov chains”
+
+ORGANIZATION
+
+The school is organised by the Software and Systems Engineering Research Group
+
+Barbara Russo 
+Claus Pahl
+Xiaofeng Wang
+Ilenia Fronza
+Davide Taibi
+Nabil El Ioini
+Andrea Janes
